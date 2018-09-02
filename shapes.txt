@@ -6,3 +6,4 @@ polygon
 trapesium
 ellipse
 4d-shape
+hyper-cube
